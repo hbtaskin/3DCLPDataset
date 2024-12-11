@@ -1,0 +1,2 @@
+Length	Width	Height	Tonnage	FirstAxle	LastAxle
+6500	3000	3000	20000	0	20000
