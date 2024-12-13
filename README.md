@@ -1,6 +1,6 @@
 # Introduction
 
-These datasets were used [in a study](#literature) of a 3D container loading problem with heuristic solutions. In this study, the problem of loading three-dimensional products into containers, arranging them in the container according to the customer order and routing the container is considered.
+These datasets were used [in a study](#citation) of a 3D container loading problem with heuristic solutions. In this study, the problem of loading three-dimensional products into containers, arranging them in the container according to the customer order and routing the container is considered.
 
 ## Input Data
 
