@@ -17,6 +17,6 @@ These datasets were used [in a study](#literature) of a 3D container loading pro
 - For example the conts-1.txt and conts-2.txt file;
   - Refers to two different types of containers.
 
-# Literature
+# Citation
 
 Yalçın, Kübra and Yıldız, Gazi Bilal and Gürek, Murat and Taşkın, Halim Burak, Mathematical Modeling and Heuristic Solutions for Container Loading Problem: A Case Study in a Cable Manufacturing Company. Available at SSRN: https://ssrn.com/abstract=4879699 or http://dx.doi.org/10.2139/ssrn.4879699
