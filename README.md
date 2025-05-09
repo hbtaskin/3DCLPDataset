@@ -19,4 +19,4 @@ These datasets were used [in a study](#citation) of a 3D container loading probl
 
 # Citation
 
-Yalçın, Kübra and Yıldız, Gazi Bilal and Gürek, Murat and Taşkın, Halim Burak, Mathematical Modeling and Heuristic Solutions for Container Loading Problem: A Case Study in a Cable Manufacturing Company. Available at SSRN: https://ssrn.com/abstract=4879699 or http://dx.doi.org/10.2139/ssrn.4879699
+Yıldız, G. B., Yalçın, K., Taşkın, H. B., & Gürek, M. (2025). Mathematical modeling and heuristic solutions for container loading and routing problem: A case study in a cable manufacturing company. Computers & Operations Research, 182, 107115. https://doi.org/10.1016/j.cor.2025.107115
